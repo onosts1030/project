@@ -9,9 +9,6 @@ Image
 ![5번](https://user-images.githubusercontent.com/75607596/101982702-2a3a1d00-3cb9-11eb-9423-0f32893c135a.JPG)
 ![6번](https://user-images.githubusercontent.com/75607596/101982703-2a3a1d00-3cb9-11eb-83bd-c82ce04b23f7.JPG)
 ![7번](https://user-images.githubusercontent.com/75607596/101982704-2ad2b380-3cb9-11eb-806e-ea5a50c788ac.JPG)
-![8번](https://user-images.githubusercontent.com/75607596/101982705-2ad2b380-3cb9-11eb-8ecb-a62fc3b0ee9e.JPG)
-![9번](https://user-images.githubusercontent.com/75607596/101982707-2b6b4a00-3cb9-11eb-9350-3bec68605abb.JPG)
-![10번](https://user-images.githubusercontent.com/75607596/101982708-2b6b4a00-3cb9-11eb-8c0f-3a28cd66073d.JPG)
 
 
 
